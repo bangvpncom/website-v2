@@ -1,2 +1,1 @@
-# website-v2
-Website V2
+# BangVPN Website
