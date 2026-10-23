@@ -16,6 +16,3 @@ ehthumbs.db
 *.swp
 *.swo
 *~
-
-# Local Claude Code guidance
-CLAUDE.md
