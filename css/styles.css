@@ -302,7 +302,8 @@ nav {
     margin-top: 1.5rem;
 }
 
-.policy-content ul {
+.policy-content ul,
+.policy-content ol {
     margin-left: 1.5rem;
     margin-bottom: 1rem;
 }
